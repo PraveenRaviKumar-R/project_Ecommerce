@@ -1,0 +1,22 @@
+body {
+  background-color: #1e1e1e;
+  color: #ffffff;
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;background-color: grey;
+}
+
+
+
+
+.carousel-item img {
+  height: 500px; /* adjust based on your design */
+  object-fit: cover;
+  width: 100%;
+}
+
+
+
+
